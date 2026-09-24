@@ -1,10 +1,10 @@
 site_name: FlowInOne
-site_url: https://lumi-node.github.io/flowinone/
+site_url: https://automate-capture.github.io/flowinone/
 site_description: "Unified image-to-image generation via multimodal flow matching."
 site_author: Andrew Young
-repo_url: https://github.com/Lumi-node/flowinone
-repo_name: Lumi-node/flowinone
-edit_uri: edit/main/docs/
+repo_url: https://github.com/Automate-Capture/flowinone
+repo_name: Automate-Capture/flowinone
+edit_uri: edit/master/docs/
 
 theme:
   name: material
@@ -62,7 +62,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lumi-node/flowinone
+      link: https://github.com/Automate-Capture/flowinone
   generator: false
 
 extra_css:

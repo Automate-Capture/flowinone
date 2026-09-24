@@ -9,7 +9,7 @@ pip install flowinone
 ## From Source
 
 ```bash
-git clone https://github.com/Lumi-node/flowinone.git
+git clone https://github.com/Automate-Capture/flowinone.git
 cd flowinone
 pip install -e ".[dev]"
 ```

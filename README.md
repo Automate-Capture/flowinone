@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python->=3.10-green.svg" alt="Python Version"></a>
-  <a href="https://github.com/Lumi-node/flowinone/actions"><img src="https://img.shields.io/badge/Tests-1195_passed-green" alt="Tests"></a>
+  <a href="https://github.com/Automate-Capture/flowinone/actions"><img src="https://img.shields.io/badge/Tests-1195_passed-green" alt="Tests"></a>
 </p>
 
 ---
@@ -138,7 +138,7 @@ pytest tests/
 
 ## Contributing
 
-Contributions are welcome! Please open issues or PRs on [GitHub](https://github.com/Lumi-node/flowinone). Ensure all new code includes tests and adheres to the existing API patterns.
+Contributions are welcome! Please open issues or PRs on [GitHub](https://github.com/Automate-Capture/flowinone). Ensure all new code includes tests and adheres to the existing API patterns.
 
 ## Citation
 
@@ -146,7 +146,7 @@ Contributions are welcome! Please open issues or PRs on [GitHub](https://github.
 @software{young_flowinone_2024,
   author = {Young, Andrew},
   title = {FlowInOne: Unified Image-to-Image Generation via Multimodal Flow Matching},
-  url = {https://github.com/Lumi-node/flowinone},
+  url = {https://github.com/Automate-Capture/flowinone},
   year = {2024},
   publisher = {Automate Capture Research}
 }
@@ -154,4 +154,4 @@ Contributions are welcome! Please open issues or PRs on [GitHub](https://github.
 
 ## License
 
-MIT – see [LICENSE](https://github.com/Lumi-node/flowinone/blob/main/LICENSE) for details.
+MIT – see [LICENSE](https://github.com/Automate-Capture/flowinone/blob/master/LICENSE) for details.
